@@ -1,0 +1,16 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+# test/fixtures/pictures.yml
+# Employee one が Picture を1つ持つ。
+# Product one が Picture を2つ持つ。
+
+employee_pict_1:
+  name: Employee Pict 1
+  imageable: one (Employee)
+
+product_pict_1:
+  name: Product Pict 1
+  imageable: one (Product)
+
+product_pict_2:
+  name: Product Pict 2
+  imageable: one (Product)
