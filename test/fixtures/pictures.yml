@@ -4,13 +4,13 @@
 # Product one が Picture を2つ持つ。
 
 employee_pict_1:
-  name: Employee Pict 1
+  name: "EmployeeのPictの1だよ"
   imageable: one (Employee)
 
 product_pict_1:
-  name: Product Pict 1
+  name: "ProductのPictの1だよ"
   imageable: one (Product)
 
 product_pict_2:
-  name: Product Pict 2
+  name: "ProductのPictの2だよ"
   imageable: one (Product)
